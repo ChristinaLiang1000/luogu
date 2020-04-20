@@ -1,7 +1,5 @@
 # xiaozeng的团队-官网
 
-![d](https://cdn.luogu.com.cn/upload/image_hosting/atugz59e.png)
-
 ## 宣言
 
 _我们一起来谔谔，谔谔树上你和我~_
