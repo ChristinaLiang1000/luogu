@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# xiaozeng的团队-官网
 
-You can use the [editor on GitHub](https://github.com/ChristinaLiang1000/luogu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![d](https://cdn.luogu.com.cn/upload/image_hosting/atugz59e.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 宣言
 
-### Markdown
+_我们一起来谔谔，谔谔树上你和我~_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**人数是虚伪的！唯有活跃的同学才是我们需要的！**
 
-```markdown
-Syntax highlighted code block
+## 公告
 
-# Header 1
-## Header 2
-### Header 3
+#### **为了防止人员大量流入，已经暂时停止直接加入！**
 
-- Bulleted
-- List
+**现在团队处于休眠状态，禁止灌水，请各位出题人潜下心来打打标程，做做数据！**
 
-1. Numbered
-2. List
+**休眠期30天**
 
-**Bold** and _Italic_ and `Code` text
+from **xiaozengX**
 
-[Link](url) and ![Image](src)
-```
+>QQ群：1035484197
+>
+>[出题团【要求有勾/橙(金)名/红名】](https://www.luogu.com.cn/team/25944)请私信本团管理进行申请加入
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristinaLiang1000/luogu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+好了，说了这么多，快来加入[我们](https://www.luogu.com.cn/team/25418)吧！
